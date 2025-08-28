@@ -2,6 +2,8 @@ STM32 Geliştirme Çalışmaları
 Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tabanlı gömülü sistem projelerini içermektedir. Her proje, belirli bir donanım özelliğini veya haberleşme protokolünü kullanmayı hedeflemektedir.
 
 📂 Projeler:
+
+
 🔘 Butona Göre Süre Ayarlama (ButonSuresi)
 •	Buton ile belirli sürelerin ölçülmesi ve LED/PWM kontrolü.
 •	Amaç: GPIO okuma, debounce ve zamanlama yönetimi.
