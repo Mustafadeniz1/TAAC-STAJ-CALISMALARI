@@ -66,8 +66,6 @@ Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tab
 
 🌐 Web Denemeleri (WEBDENEME2 ve WebDenemeProjesi)
 
-<img width="1919" height="1020" alt="9 gün web projesi" src="https://github.com/user-attachments/assets/7fb608cc-e3b7-412c-9b31-62cc08552340" />
-
 
 •	STM32’nin web entegrasyonu / veri aktarımı üzerine testler.
 
@@ -86,3 +84,18 @@ Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tab
 •	Zamanlama: Timer, PWM, Input Capture, Encoder
 
 •	Analog İşlemler: ADC, DAC,DMA
+
+
+
+
+
+<img width="1919" height="1020" alt="9 gün web projesi" src="https://github.com/user-attachments/assets/8ea91d9c-53e5-41c6-a650-346de1f9cc43" />
+
+
+
+<img width="1919" height="1079" alt="staj 10 gün foto" src="https://github.com/user-attachments/assets/dfdf0ae1-d6fd-4627-94b1-4d068ef69231" />
+
+
+
+
+![14 gün CENTER ALLİGNED PWM FOTO](https://github.com/user-attachments/assets/815aa224-5397-4e93-97ea-f4c78e09b5ad)
