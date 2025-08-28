@@ -71,9 +71,15 @@ Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tab
 •	IoT tabanlı denemeler.
 
 🛠️ Kullanılan Teknolojiler
+
 •	Mikrodenetleyici: STM32 serisi
+
 •	IDE: STM32CubeIDE
+
 •	Dil: C (HAL Kütüphaneleri ile)
+
 •	Haberleşme Protokolleri: UART, I2C, SPI
+
 •	Zamanlama: Timer, PWM, Input Capture, Encoder
+
 •	Analog İşlemler: ADC, DAC,DMA
