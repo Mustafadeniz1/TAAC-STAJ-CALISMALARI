@@ -66,6 +66,9 @@ Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tab
 
 🌐 Web Denemeleri (WEBDENEME2 ve WebDenemeProjesi)
 
+<img width="1919" height="1020" alt="9 gün web projesi" src="https://github.com/user-attachments/assets/7fb608cc-e3b7-412c-9b31-62cc08552340" />
+
+
 •	STM32’nin web entegrasyonu / veri aktarımı üzerine testler.
 
 •	IoT tabanlı denemeler.
