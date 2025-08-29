@@ -93,9 +93,22 @@ Bu repo, TAAC Staj Çalışmaları kapsamında geliştirilen çeşitli STM32 tab
 
 
 
-<img width="1919" height="1079" alt="staj 10 gün foto" src="https://github.com/user-attachments/assets/dfdf0ae1-d6fd-4627-94b1-4d068ef69231" />
 
+<img width="1919" height="1030" alt="staj 10 gün foto" src="https://github.com/user-attachments/assets/68b18e3f-c3fe-41da-91ad-dccec83997ef" />
 
 
 
 ![14 gün CENTER ALLİGNED PWM FOTO](https://github.com/user-attachments/assets/815aa224-5397-4e93-97ea-f4c78e09b5ad)
+
+
+
+<img width="1919" height="1018" alt="16 gün TimerİnputCapture" src="https://github.com/user-attachments/assets/abc8073d-d672-4cc5-9617-eb4416227df6" />
+
+
+
+<img width="1195" height="601" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c2ba2f77-8302-41ea-a5ce-b281328425f3" />
+
+
+
+
+<img width="1704" height="998" alt="17 gün" src="https://github.com/user-attachments/assets/2895529e-88c6-4d38-a5a4-78268eae97b6" />
